@@ -1,19 +1,19 @@
 # restaurant-menu(Ongoing Project)
 -------------------------------------------------------
-##Intro
+## Intro
 > This project aims making restaurant-menu.
 > It is a part of udacity's full stack foundation
 > free course
 ------------------------------------------------------
 ## Imp Points
-> Python, sqlite and html, css are used.
-> BaseHTTPServer (in python 3.6 known as http.server).
-> Module  is used to create simple server to deploy
-> this sqlite.
-> SQLAlchemy is used to enable orm(object relation
-> mapping).
-> for adding data to database lotsofmenus.py is used
-> which is provided by course .
+1. Python, sqlite and html, css are used.
+2. BaseHTTPServer (in python 3.6 known as http.server) .
+ Module  is used to create simple server to deploy
+ this site.
+4. SQLAlchemy is used to enable orm(object relation
+ mapping).
+5. for adding data to database lotsofmenus.py is used
+ which is provided by course .
 ------------------------------------------------------
 ##Instruction to run
 1. Ensure you have installed SQLAlchemy otherwise
