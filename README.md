@@ -15,7 +15,7 @@
 5. for adding data to database lotsofmenus.py is used
  which is provided by course .
 ------------------------------------------------------
-##Instruction to run
+## Instruction to run
 1. Ensure you have installed SQLAlchemy otherwise
   install it using command pip install sqlalchemy
 2. Now open your terminal(for linux), commandprompt
